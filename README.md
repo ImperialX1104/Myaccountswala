@@ -13,7 +13,7 @@ My Accounts Wala is built using the React framework, which provides a robust and
 To use My Accounts Wala, users can simply download the repository from GitHub and install the necessary dependencies using the npm package manager. Once the dependencies are installed, users can start the development server and access the platform on their local machines.
 
 ```
-git clone https://github.com/<username>/my-accounts-wala.git
+git clone https://github.com/ImperialX1104/Myaccountswala.git
 cd my-accounts-wala
 npm install
 npm start
